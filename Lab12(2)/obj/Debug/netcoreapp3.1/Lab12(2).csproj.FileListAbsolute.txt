@@ -1,0 +1,16 @@
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\bin\Debug\netcoreapp3.1\Lab12(2).exe
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\bin\Debug\netcoreapp3.1\Lab12(2).deps.json
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\bin\Debug\netcoreapp3.1\Lab12(2).runtimeconfig.json
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\bin\Debug\netcoreapp3.1\Lab12(2).runtimeconfig.dev.json
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\bin\Debug\netcoreapp3.1\Lab12(2).dll
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\bin\Debug\netcoreapp3.1\Lab12(2).pdb
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\bin\Debug\netcoreapp3.1\MyLib10.dll
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\bin\Debug\netcoreapp3.1\MyLib10.pdb
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\obj\Debug\netcoreapp3.1\Lab12(2).csproj.AssemblyReference.cache
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\obj\Debug\netcoreapp3.1\Lab12(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\obj\Debug\netcoreapp3.1\Lab12(2).AssemblyInfoInputs.cache
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\obj\Debug\netcoreapp3.1\Lab12(2).AssemblyInfo.cs
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\obj\Debug\netcoreapp3.1\Lab12(2).csproj.CoreCompileInputs.cache
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\obj\Debug\netcoreapp3.1\Lab12(2).dll
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\obj\Debug\netcoreapp3.1\Lab12(2).pdb
+C:\Users\goste\source\repos\Lab12(2)\Lab12(2)\obj\Debug\netcoreapp3.1\Lab12(2).genruntimeconfig.cache
