@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Lab13_2_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Lab12(2)\Lab12(2)\Lab12(2).csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MyLib10">
+      <HintPath>..\..\Lab10(2)\MyLib10\bin\Debug\netcoreapp3.1\MyLib10.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
